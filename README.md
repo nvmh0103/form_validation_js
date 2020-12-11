@@ -1,1 +1,1 @@
-basic form validation with javascript
+Basic form validation with Javascript
